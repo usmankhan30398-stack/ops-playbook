@@ -1,6 +1,6 @@
 # AI Strategy Portfolio
 
-Welcome to the AI Strategy Portfolio! This repository showcases strategy examples, workflows, and case studies demonstrating how AI can be leveraged to drive operational improvements, align teams, and scale processes.
+This repository showcases strategy examples, workflows, and case studies demonstrating how AI can be leveraged to drive operational improvements, align teams, and scale processes.
 
 ## Repository Overview
 - **Case Studies**: Real-world AI applications for enhancing operations and decision-making.
