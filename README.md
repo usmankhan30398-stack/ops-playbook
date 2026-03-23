@@ -18,7 +18,7 @@ A living collection of operational frameworks, case studies, and workflows from 
 
 This isn't a theoretical AI portfolio. It's how I actually think about operations.
 
-The case studies are real problems I worked on. The workflows are processes I've built and refined. The prompts are ones I use regularly. If you're a founder, operator, or hiring manager, this gives you a concrete sense of how I approach problems — not just what I claim to be able to do.
+The case studies are real problems I worked on. The workflows are processes I've built and refined. The prompts are ones I use regularly. If you're a founder, operator, or hiring manager, this gives you a concrete sense of how I approach problems, not just what I claim to be able to do.
 
 ---
 
