@@ -1,6 +1,6 @@
 # Case Studies: AI Applied to Real Operational Problems
 
-These case studies are drawn from operational challenges I encountered firsthand in consulting and operations. Each one documents the problem, the AI-powered approach I would apply, and the expected impact.
+These case studies are drawn from operational challenges I encountered firsthand in consulting and healthcare IT. Some document problems I solved directly. Others explore how I would apply AI to problems I've seen up close. All of them reflect how I think about operational improvement.
 
 ---
 
@@ -54,13 +54,13 @@ From there, I partnered with the technical and implementation teams to make targ
 - Improved templates and structured inputs to reduce free-text burden
 - Ensured data entered once would populate downstream fields automatically
 
-I acted as the bridge between clinicians and technical teams — translating workflow pain into actionable system improvements neither side could have fully articulated on their own.
+I acted as the bridge between clinicians and technical teams, translating workflow pain into actionable system improvements neither side could have fully articulated on their own.
 
 **How AI Applies Today**
 The same problem exists across healthcare organizations at scale. With AI, this workflow analysis can be done faster and more comprehensively: ambient documentation tools can capture provider-patient interactions and auto-populate structured EHR fields in real time, eliminating the re-entry problem entirely. The diagnostic work I did manually — mapping workflows, identifying redundancy, validating with clinicians — can be augmented with process mining tools that analyze system logs to surface friction points automatically.
 
 **What This Demonstrates**
-The instinct to go observe the workflow directly rather than accept the stated problem is the same instinct that makes AI implementations actually work. Most failed deployments happen because no one mapped the real workflow before automating it. I did that work by hand. Now I'd do it faster with better tools — but the judgment about what to look for doesn't change.
+The instinct to go observe the workflow directly rather than accept the stated problem is the same instinct that makes AI implementations actually work. Most failed deployments happen because no one mapped the real workflow before automating it. I did that work by hand. Now I'd do it faster with better tools, but the judgment about what to look for doesn't change.
 
 ---
 
@@ -84,7 +84,7 @@ I then presented the tool to stakeholders internally. They were immediately on b
 - The tool is still in use today
 
 **What This Demonstrates**
-This wasn't a top-down initiative. It was a pattern I noticed, a problem I decided to own, and a solution I built without waiting for permission. That combination — seeing operational inefficiency, understanding the technical constraints, and shipping something that actually stuck — is the through-line in how I approach ops problems.
+This wasn't a top-down initiative. It was a pattern I noticed, a problem I decided to own, and a solution I built without waiting for permission. That combination — seeing operational inefficiency, understanding the technical constraints, and shipping something that actually stuck, is the through-line in how I approach ops problems.
 
 ---
 
