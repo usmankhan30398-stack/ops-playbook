@@ -67,7 +67,7 @@ The instinct to go observe the workflow directly rather than accept the stated p
 ## Case Study 3: Cutting AI Consultation Timelines from Four Weeks to a Few Days
 
 **Context**
-At CGI, initial AI consultations with clients were taking nearly four weeks. Clients didn't know which AI use cases were worth pursuing, and the team was spending weeks manually evaluating feasibility, cost, and ROI for each one. No one had been tasked with fixing it — but the pattern was clear and the inefficiency was significant.
+At CGI, initial AI consultations with clients were taking nearly four weeks. Clients didn't know which AI use cases were worth pursuing, and the team was spending weeks manually evaluating feasibility, cost, and ROI for each one. No one had been tasked with fixing it, but the pattern was clear and the inefficiency was significant.
 
 **The Problem**
 Every consultation started from scratch. Evaluating whether an AI use case was feasible and worthwhile required deep back-and-forth between consultants, the technical team, and the client — most of which was repetitive and could have been structured. The result was slow client decisions and a team stretched thin on work that shouldn't have required weeks.
@@ -84,7 +84,7 @@ I then presented the tool to stakeholders internally. They were immediately on b
 - The tool is still in use today
 
 **What This Demonstrates**
-This wasn't a top-down initiative. It was a pattern I noticed, a problem I decided to own, and a solution I built without waiting for permission. That combination — seeing operational inefficiency, understanding the technical constraints, and shipping something that actually stuck, is the through-line in how I approach ops problems.
+This wasn't a top-down initiative. It was a pattern I noticed, a problem I decided to own, and a solution I built without waiting for permission. That combination of seeing operational inefficiency, understanding the technical constraints, and shipping something that actually stuck, is the through-line in how I approach ops problems.
 
 ---
 
