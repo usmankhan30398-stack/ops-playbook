@@ -1,6 +1,6 @@
 # Case Studies: AI Applied to Real Operational Problems
 
-These case studies are drawn from operational challenges I encountered firsthand in consulting and healthcare IT. Some document problems I solved directly. Others explore how I would apply AI to problems I've seen up close. All of them reflect how I think about operational improvement.
+These case studies are drawn from operational challenges I encountered firsthand in AI advisory and operations. Some document problems I solved directly. Others explore how I would apply AI to problems I've seen up close. All of them reflect how I think about operational improvement.
 
 ---
 
